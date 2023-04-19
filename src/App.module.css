@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Outfit;
+}
+
+body h1 {
+  font-size: 25px;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%)
+}
+
+body p {
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%)
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
